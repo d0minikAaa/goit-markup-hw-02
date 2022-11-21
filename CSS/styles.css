@@ -1,0 +1,159 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.62rem;
+  font-weight: 700;
+  color: #000000;
+  text-decoration: none;
+  line-height: 1.17;
+}
+
+.logo-part1 {
+  color: #2196f3;
+}
+
+.nav-list,
+.asset-list,
+.job-list-item,
+.workers-list,
+.projects {
+  list-style: none;
+}
+
+.nav-list-item {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.87rem;
+  line-height: 1.17;
+  color: #212121;
+}
+
+.nav-list-item:hover,
+.footer-address-links:hover {
+  color: #2196f3;
+}
+
+.title {
+  font-size: 2.75rem;
+  font-weight: 900;
+  color: #ffffff;
+  line-height: 1.36;
+}
+
+.main-section {
+  background: #2f303a;
+  text-align: center;
+}
+
+.main-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.87;
+}
+
+.main-button:hover,
+.main-button:focus {
+  color: #ffff;
+  background-color: #2196f3;
+  cursor: pointer;
+}
+
+.portfolio-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.62;
+}
+
+.portfolio-button:hover,
+.portfolio-button:focus {
+  color: #ffff;
+  background-color: #2196f3;
+  cursor: pointer;
+}
+
+.address-links {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.87rem;
+  color: #757575;
+  line-height: 1.17;
+}
+
+.address-links:hover,
+.address-links:focus {
+  color: #2196f3;
+}
+
+.asset-list-item {
+  color: #212121;
+  font-weight: 700;
+  font-size: 0.87rem;
+  line-height: 1.17;
+}
+
+.asset-list-description {
+  font-weight: 400;
+  font-size: 0, 87rem;
+  color: #757575;
+  line-height: 1.71;
+}
+
+.job-list,
+.workers {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1.17;
+}
+
+.workers-list-person {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.17;
+}
+
+.profession {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #757575;
+  line-height: 1.17;
+}
+
+.project-list-item {
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.project-description {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #757575;
+  line-height: 1.87;
+}
+
+.location {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.87rem;
+  line-height: 1.71;
+  color: #ffffff;
+}
+
+.footer-data {
+  background-color: #2f303a;
+}
+
+.footer-address-links {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.87rem;
+  line-height: 1.71;
+  color: #ffffff99;
+  text-decoration: none;
+}
